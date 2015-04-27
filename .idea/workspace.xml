@@ -65,14 +65,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PriorityQueue.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PriorityQueue.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PriorityQueue.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.775" vertical-offset="0" max-vertical-offset="840">
-              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            <state vertical-scroll-proportion="-18.9" vertical-offset="0" max-vertical-offset="819">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
               <folding>
                 <element signature="e#6#96#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.19881657" vertical-offset="0" max-vertical-offset="845">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,6 +128,7 @@
         <option value="$PROJECT_DIR$/BinaryNode.php" />
         <option value="$PROJECT_DIR$/Heap.php" />
         <option value="$PROJECT_DIR$/PriorityQueue.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -410,11 +421,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PriorityQueue.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.775" vertical-offset="0" max-vertical-offset="840">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state vertical-scroll-proportion="-18.9" vertical-offset="0" max-vertical-offset="819">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
           <folding>
             <element signature="e#6#96#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19881657" vertical-offset="0" max-vertical-offset="845">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
