@@ -47,7 +47,7 @@ class BinaryTree
         }else{
             if($node->value > $subTree->value){
                 // insert to right child in case new value greater than current one
-                $this->insertNode($node,$subTree->right);;
+                $this->insertNode($node,$subTree->right);
             }else if($node->value < $subTree->value){
                 // insert to left child in case new value less than current one
                 $this->insertNode($node,$subTree->left);
