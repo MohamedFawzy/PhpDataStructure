@@ -35,11 +35,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Queue.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Queue.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Queue.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.275" vertical-offset="210" max-vertical-offset="1050">
+            <state vertical-scroll-proportion="-7.7" vertical-offset="210" max-vertical-offset="1050">
               <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryNode.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BinaryNode.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.94846624" vertical-offset="424" max-vertical-offset="1344">
+              <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="147">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -72,6 +92,8 @@
       <list>
         <option value="$PROJECT_DIR$/Stack.php" />
         <option value="$PROJECT_DIR$/Queue.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/BinaryNode.php" />
       </list>
     </option>
   </component>
@@ -183,7 +205,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -276,8 +298,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Queue.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.275" vertical-offset="210" max-vertical-offset="1050">
+        <state vertical-scroll-proportion="-7.7" vertical-offset="210" max-vertical-offset="1050">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="147">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryNode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94846624" vertical-offset="424" max-vertical-offset="1344">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
           <folding />
         </state>
       </provider>
